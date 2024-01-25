@@ -1,0 +1,186 @@
+{
+  "clients": [
+    {
+      "id": 0,
+      "Name": "bentley",
+      "domain": "Testing",
+      "manager_id": "7",
+      "RevenuePerYear": "24M"
+    },
+    {
+      "id": 1,
+      "Name": "bentley",
+      "domain": "Testing",
+      "manager_id": "7",
+      "RevenuePerYear": "24M"
+    },
+    {
+      "id": 2,
+      "Name": "yamaha",
+      "domain": "Manufacturing",
+      "manager_id": "9",
+      "RevenuePerYear": "18M"
+    },
+    {
+      "id": 3,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 4,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 5,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 6,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 7,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 8,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 9,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 10,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 11,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 12,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 13,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 14,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 15,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 16,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 17,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 18,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 19,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 20,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 21,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 22,
+      "Name": "rx100",
+      "domain": "Testing",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    },
+    {
+      "id": 23,
+      "Name": "creta",
+      "domain": "Testing",
+      "manager_id": "6",
+      "RevenuePerYear": "88M"
+    },
+    {
+      "id": 24,
+      "Name": "bajaj chetak",
+      "domain": "manufacturing",
+      "manager_id": "42",
+      "RevenuePerYear": "77M"
+    },
+    {
+      "id": 25,
+      "Name": "rx100",
+      "domain": "Test",
+      "manager_id": "5",
+      "RevenuePerYear": "44M"
+    }
+  ]
+}
